@@ -2,9 +2,9 @@
 
 .contact-form {
     background-color: #000000; 
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    width: 100%;
+    padding: 2.5cap;
+    border-radius: 1.0rem;
+    width: 150%;
     max-width: 600px;
   }
   
@@ -16,7 +16,7 @@
   
   .contact-form label {
     display: block;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.0rem;
   }
   
   .contact-form input,
@@ -27,6 +27,7 @@
     border-radius: 0.25rem;
     border: none;
     color: rgb(255, 255, 255);
+    resize: vertical;
   }
   
   .contact-form button {

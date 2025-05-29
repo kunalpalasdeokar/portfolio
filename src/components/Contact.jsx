@@ -2,11 +2,11 @@ import '../styles/contact.css';
 
 function Contact() {
   return (
-    <section className="contact-section">
+    <section className="contact-form">
       <form
         action="https://formspree.io/f/YOUR_FORM_ID"
         method="POST"
-        className="contact-form"
+        className=""
       >
         <h2>Contact Me</h2>
 
